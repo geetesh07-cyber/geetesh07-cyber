@@ -1,5 +1,5 @@
 - 👀 Hi I am geetesh07-cyber
-- 🌱 I’m currently learning C++
+- 🌱 I’m FRONT-END Devloper
 
 
 <!---
